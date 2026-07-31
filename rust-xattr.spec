@@ -5,8 +5,8 @@
 %global crate xattr
 
 Name:           rust-%{crate}
-Version:        0.2.2
-Release:        9%{?dist}
+Version:        1.6.1
+Release:        1%{?dist}
 Summary:        UNIX extended filesystem attributes
 
 # Upstream license specification: MIT/Apache-2.0
